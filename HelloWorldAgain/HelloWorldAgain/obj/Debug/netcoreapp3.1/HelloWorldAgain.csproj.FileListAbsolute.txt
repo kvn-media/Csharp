@@ -1,0 +1,14 @@
+E:\Enigma-Course\Playground\C#\HelloWorldAgain\HelloWorldAgain\bin\Debug\netcoreapp3.1\HelloWorldAgain.exe
+E:\Enigma-Course\Playground\C#\HelloWorldAgain\HelloWorldAgain\bin\Debug\netcoreapp3.1\HelloWorldAgain.deps.json
+E:\Enigma-Course\Playground\C#\HelloWorldAgain\HelloWorldAgain\bin\Debug\netcoreapp3.1\HelloWorldAgain.runtimeconfig.json
+E:\Enigma-Course\Playground\C#\HelloWorldAgain\HelloWorldAgain\bin\Debug\netcoreapp3.1\HelloWorldAgain.runtimeconfig.dev.json
+E:\Enigma-Course\Playground\C#\HelloWorldAgain\HelloWorldAgain\bin\Debug\netcoreapp3.1\HelloWorldAgain.dll
+E:\Enigma-Course\Playground\C#\HelloWorldAgain\HelloWorldAgain\bin\Debug\netcoreapp3.1\HelloWorldAgain.pdb
+E:\Enigma-Course\Playground\C#\HelloWorldAgain\HelloWorldAgain\obj\Debug\netcoreapp3.1\HelloWorldAgain.csproj.AssemblyReference.cache
+E:\Enigma-Course\Playground\C#\HelloWorldAgain\HelloWorldAgain\obj\Debug\netcoreapp3.1\HelloWorldAgain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Enigma-Course\Playground\C#\HelloWorldAgain\HelloWorldAgain\obj\Debug\netcoreapp3.1\HelloWorldAgain.AssemblyInfoInputs.cache
+E:\Enigma-Course\Playground\C#\HelloWorldAgain\HelloWorldAgain\obj\Debug\netcoreapp3.1\HelloWorldAgain.AssemblyInfo.cs
+E:\Enigma-Course\Playground\C#\HelloWorldAgain\HelloWorldAgain\obj\Debug\netcoreapp3.1\HelloWorldAgain.csproj.CoreCompileInputs.cache
+E:\Enigma-Course\Playground\C#\HelloWorldAgain\HelloWorldAgain\obj\Debug\netcoreapp3.1\HelloWorldAgain.dll
+E:\Enigma-Course\Playground\C#\HelloWorldAgain\HelloWorldAgain\obj\Debug\netcoreapp3.1\HelloWorldAgain.pdb
+E:\Enigma-Course\Playground\C#\HelloWorldAgain\HelloWorldAgain\obj\Debug\netcoreapp3.1\HelloWorldAgain.genruntimeconfig.cache
